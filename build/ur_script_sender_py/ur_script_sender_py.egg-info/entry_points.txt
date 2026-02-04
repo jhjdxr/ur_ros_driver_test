@@ -1,0 +1,3 @@
+[console_scripts]
+send_script = ur_script_sender_py.send_script:main
+

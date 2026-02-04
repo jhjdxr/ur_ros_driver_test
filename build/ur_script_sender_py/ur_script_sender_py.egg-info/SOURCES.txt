@@ -1,0 +1,13 @@
+package.xml
+setup.cfg
+setup.py
+resource/ur_script_sender_py
+ur_script_sender_py/__init__.py
+ur_script_sender_py/send_script.py
+ur_script_sender_py.egg-info/PKG-INFO
+ur_script_sender_py.egg-info/SOURCES.txt
+ur_script_sender_py.egg-info/dependency_links.txt
+ur_script_sender_py.egg-info/entry_points.txt
+ur_script_sender_py.egg-info/requires.txt
+ur_script_sender_py.egg-info/top_level.txt
+ur_script_sender_py.egg-info/zip-safe
