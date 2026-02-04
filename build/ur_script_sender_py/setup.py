@@ -1,1 +1,0 @@
-/home/dxr/ws_ur_scripts/src/ur_script_sender_py/setup.py
