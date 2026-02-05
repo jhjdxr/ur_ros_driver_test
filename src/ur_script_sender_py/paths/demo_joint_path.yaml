@@ -1,0 +1,11 @@
+joint_names: [shoulder_pan_joint, shoulder_lift_joint, elbow_joint, wrist_1_joint, wrist_2_joint, wrist_3_joint]
+
+# 각 point의 positions는 joint_names 순서와 동일
+points:
+  - t: 1.0
+    positions: [0.0, -1.57, 1.57, -1.57, 1.57, 0.0]
+    velocities: [0, 0, 0, 0, 0, 0]   # optional
+  - t: 3.0
+    positions: [0.2, -1.2, 1.4, -1.6, 1.3, 0.1]
+  - t: 6.0
+    positions: [0.0, -1.57, 1.57, -1.57, 1.57, 0.0]
